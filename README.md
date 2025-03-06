@@ -59,6 +59,15 @@ Combining both ensured a balance of simplicity, flexibility, and security in the
 ![App Screenshot](https://github.com/always-mayur/My-Smart-Energy-Monitoring-System/blob/main/client/public/Screenshot%20(108).png?raw=true)
 ![App Screenshot](https://github.com/always-mayur/My-Smart-Energy-Monitoring-System/blob/main/client/public/Screenshot%20(115).png?raw=true)
 
+![App Screenshot](https://github.com/always-mayur/My-Smart-Energy-Monitoring-System/blob/main/client/public/Screenshot%20(109).png?raw=true)
+![App Screenshot](https://github.com/always-mayur/My-Smart-Energy-Monitoring-System/blob/main/client/public/Screenshot%20(110).png?raw=true)
+
+![App Screenshot](https://github.com/always-mayur/My-Smart-Energy-Monitoring-System/blob/main/client/public/Screenshot%20(111).png?raw=true)
+![App Screenshot](https://github.com/always-mayur/My-Smart-Energy-Monitoring-System/blob/main/client/public/Screenshot%20(112).png?raw=true)
+
+![App Screenshot](https://github.com/always-mayur/My-Smart-Energy-Monitoring-System/blob/main/client/public/Screenshot%20(113).png?raw=true)
+![App Screenshot](https://github.com/always-mayur/My-Smart-Energy-Monitoring-System/blob/main/client/public/Screenshot%20(114).png?raw=true)
+
 
 
 
