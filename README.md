@@ -54,5 +54,9 @@ Combining both ensured a balance of simplicity, flexibility, and security in the
 - Enhance the dashboard with advanced data visualization techniques.
 - Expand user roles and permissions for better access control.
 
+## Snapshots of the WebPage
+![App Dashboard](/public/screenshot(108).png)
+![App Dashboard](/public/screenshot(115).png)
+
 
 
