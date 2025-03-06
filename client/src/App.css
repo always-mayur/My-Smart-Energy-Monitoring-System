@@ -1,0 +1,73 @@
+/* Custom styles for the energy dashboard */
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* Sidebar styles */
+.nav-link.active {
+  background-color: #4361ee !important;
+}
+
+/* Dashboard card styles */
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.card-header {
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+  padding: 15px 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Custom progress bar for the carbon footprint */
+.custom-progress {
+  height: 10px;
+  border-radius: 5px;
+}
+
+.custom-progress .progress-bar {
+  background-color: #4eebc5;
+}
+
+/* Nav pills styling */
+.nav-pills .nav-link {
+  color: #1a2b50;
+  background-color: rgba(26, 43, 80, 0.1);
+  margin-right: 10px;
+  border-radius: 20px;
+  padding: 8px 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #1a2b50;
+  color: white;
+}
+
+/* MUI Slider customization */
+.MuiSlider-root {
+  color: #4361ee !important;
+}
+
+.MuiSlider-thumb {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    min-height: auto;
+    position: static;
+  }
+}
+
