@@ -55,8 +55,9 @@ Combining both ensured a balance of simplicity, flexibility, and security in the
 - Expand user roles and permissions for better access control.
 
 ## Snapshots of the WebPage
-![App Dashboard](client/public/screenshot(108).png)
-![App Dashboard](client/public/screenshot(115).png)
+![App Screenshot](https://raw.githubusercontent.com/always-mayur/My-Smart-Energy-Monitoring-System/main/client/public/Screenshot(108).png)
+![App Screenshot](https://raw.githubusercontent.com/always-mayur/My-Smart-Energy-Monitoring-System/main/client/public/Screenshot(108).png)
+
 
 
 
