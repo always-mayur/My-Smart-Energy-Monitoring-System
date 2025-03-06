@@ -2,9 +2,6 @@
 
 A creative and functional mini energy monitoring system for a smart home, demonstrating both front-end and back-end development expertise. This project provides a snapshot of a smart home’s energy usage with interactive visualizations and secure data management.
 
-## Live Demo 🌐
-Check out the deployed version of the app here: [Smart Home Energy Monitoring System](https://my-smart-energy-monitoring-system-1.onrender.com)
-
 ## Challenges 🧠
 One of the key challenges faced during development was with the login system. Due to the integration of both JWT and Passport.js for authentication, passwords were getting hashed twice, leading to login failures. This issue was resolved by carefully debugging both libraries and streamlining the authentication process to ensure password hashing happened only once.
 
@@ -48,6 +45,9 @@ Combining both ensured a balance of simplicity, flexibility, and security in the
    ```bash
    npm start
    ```
+
+## Live Demo 🌐
+Check out the deployed version of the app here: [Smart Home Energy Monitoring System](https://my-smart-energy-monitoring-system-1.onrender.com)   
 
 ## Future Enhancements 🌱
 - Implement real-time data fetching from IoT devices.
